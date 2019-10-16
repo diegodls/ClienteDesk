@@ -9,7 +9,7 @@ Desenvolvido como projeto para teste de conhecimento para faculdade.
 # Desenvolvimento
 Este aplicativo para Desktop foi desenvolvido em JAVA.\
 A finalidade dele é simular as funções REST juntamente com um programa para Android em uma rede local.\
-Editar este aplicativo (IDE de preferência, utilizei o NetBeans) e configurar a "URL" deste app para uma rede local (localhost) de sua rede.\
+Editar este aplicativo (IDE de preferência, utilizei o NetBeans) e configurar a "URL" deste app para uma rede local (localhost) de sua rede.
 
 # Utilização
 Para utiliza-lo você deverá Executar o "servidor" (aplicativo em java[link acima]) e configurar um banco de dados (arquivo "1 - BANCO.txt").\
